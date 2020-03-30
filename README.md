@@ -1,3 +1,4 @@
+Source for learning graphql implementation : https://graphql.org/graphql-js/
 used nodemon to start server on 5000
 url : http://localhost:5000/graphql
 
